@@ -1,0 +1,23 @@
+body {
+	background: linear-gradient(to right, #4CAF50, #2196F3);
+}
+
+.weather{
+	width: 25%;
+    height: 150%;
+    padding: 5cap;
+    margin-left: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	border-radius: 50px;
+    background-color: white;
+}
+
+.mybutton{
+	background-color: blue;
+    color: white;
+    padding: 5px;
+    margin-top: 10px;
+
+}
